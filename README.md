@@ -1,4 +1,3 @@
-<p>Hello, World! I’m a frontend developer.</p>
 <p>I ❤️ JavaScript, VueJS, ReactJS and UI design.</p>
 
 <p>
