@@ -1,4 +1,4 @@
-<p>I ❤️ JavaScript, VueJS, ReactJS and UI design.</p>
+<p>I ❤️ JavaScript, ReactJS, VueJS and UI design.</p>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
